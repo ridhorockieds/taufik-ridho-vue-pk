@@ -69,9 +69,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-img {
-  padding: 10px;
-}
-</style>
